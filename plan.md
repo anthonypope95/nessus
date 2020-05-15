@@ -25,6 +25,6 @@
 
 
 
-Alternative:
+#### Alternative
 
 5. Utilizzare un meccanismo di autenticazione basato sull'utilizzo di chiave pubblica e chiave privata 
